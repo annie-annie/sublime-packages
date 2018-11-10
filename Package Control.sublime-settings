@@ -38,6 +38,7 @@
 		"MultiEditUtils",
 		"NoDialogs",
 		"Package Control",
+		"Phpcs",
 		"Pretty JSON",
 		"rainbow_csv",
 		"RustFormat",
