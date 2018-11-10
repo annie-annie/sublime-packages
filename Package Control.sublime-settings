@@ -53,6 +53,7 @@
 		"SublimeLinter-luacheck",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"SyncedSideBar",
 		"TOML",
 		"TrailingSpaces"
 	],
