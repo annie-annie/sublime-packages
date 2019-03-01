@@ -24,7 +24,6 @@
 		"*.jar",
 		"*.zip",
 		"node_modules/**",
-		"vendor/**",
 		"tests/_output/**"
 	],
 	"caret_style": "phase",
